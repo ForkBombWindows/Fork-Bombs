@@ -12,6 +12,7 @@ Windows!!
 ## Built With
 
 * Programmer's Notepad = http://www.pnotepad.org/
+* Batch & Powershell
 
 ## Authors
 
