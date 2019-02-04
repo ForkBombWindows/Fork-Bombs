@@ -3,7 +3,7 @@
 We make some exe to destroy/fork bomb windows computers!
 
 ## Getting Started
-Download our files and send the files to your enemies(at the Moment i had only exe)!
+Download our files and send the files to your enemies (at the Moment i had only exe)!
 
 ### Prerequisites
 
