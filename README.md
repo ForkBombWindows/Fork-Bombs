@@ -7,9 +7,9 @@ Download our files and send the files to your enemies(at the Moment i had only e
 
 ### Prerequisites
 
-Windows
-Cmd
-Powershell
+* Windows
+* Cmd
+* Powershell
 
 ## Built With
 
