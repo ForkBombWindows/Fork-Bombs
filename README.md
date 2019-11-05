@@ -29,5 +29,5 @@ Download our files and send the files to your enemies (at the Moment i had only 
 - Use at your own Risk!
 - Better you dont use it at your PC!
 - Only for Windows
-+ All exe without HIGH RISK in name can executed by your self! 
++ All exe without HIGH RISK in name can executed by your self! (Not included jet so dont execute at your own PC)
 ```
