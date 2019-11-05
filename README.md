@@ -13,9 +13,8 @@ Download our files and send the files to your enemies (at the Moment i had only 
 
 ## Built With
 
-* Programmer's Notepad = http://www.pnotepad.org/
-* Advanced Bat to Exe Converter
-* Batch & Powershell
+* Atom = https://atom.io
+* Compiler Software
 
 ## Authors
 
