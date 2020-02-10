@@ -7,5 +7,5 @@
 * Universal Fork Bomb.py should fork bomb any Windows, Linux or Mac sytem if Python is installed
 
 ## Authors:
-*DevSodoku
-*H137
+* DevSodoku
+* H137
